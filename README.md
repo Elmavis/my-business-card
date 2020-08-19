@@ -1,1 +1,2 @@
-# my-business-card
+Учебный проект от Glo Academy
+Создан в рамках четырёхдневного интенсива по HTML, CSS и JS
